@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a **full-stack software developer** passionate about c
 - JavaScript | Python | HTML | CSS  
 
 ### **Frameworks & Libraries:**  
-- React | Node.js | Express  
+- React | Node.js | Express  | AngularJS | Django | TensorFlow | Bootstrap 
 
 ### **Databases:**  
 - SQL (MySQL, PostgreSQL) | NoSQL (MongoDB)  
