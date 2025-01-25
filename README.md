@@ -61,6 +61,6 @@ Let’s connect!
 
 ## ⚡ Fun Fact  
 
-I started coding with just a curious mind and online resources. Today, I’m a professional full-stack developer who owes this journey to God’s guidance, Wamzy and Naomi my mentors, and to the unwavering support of my brother, Charles N. Muriuki.  
+I started coding with just a curious mind and online resources. Today, I’m a professional full-stack developer who owes this journey to God’s guidance, Wamzy, Naomi, and Kira Aziz my mentors🗝 and inspiration✨, and mostly, to the unwavering support of my brother, Charles N. Muriuki 😇🙏🏽.  
 
 --- 
