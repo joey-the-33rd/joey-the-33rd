@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Joseph Ndungu (@joey-the-33rd)  
+ ![new_era](https://github.com/user-attachments/assets/17a45b74-6504-4332-a9c3-c34ed077bc80)
 
+
+# 👋 Hi, I'm Joseph Ndungu (@joey-the-33rd) 
 Welcome to my GitHub! I'm a **full-stack software developer** passionate about crafting scalable, efficient, and secure software systems. From self-teaching through online resources to collaborating with industry experts, I’ve built a career rooted in problem-solving, innovation, and continuous learning.  
 
 ## 🌟 About Me  
