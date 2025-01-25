@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/a93d8467-59ad-4833-a93c-e5852850b457" alt="Brains+AI Bridge" style="width: 50%; height: 100%;">
-</div>div>
+    <img src="https://github.com/user-attachments/assets/a93d8467-59ad-4833-a93c-e5852850b457" alt="Brains+AI Bridge" style="width: 50%; height: 25%;">
+</div>
 
 # 👋 Hi, I'm Joseph Ndungu (@joey-the-33rd) 
 Welcome to my GitHub! I'm a **full-stack software developer** passionate about crafting scalable, efficient, and secure software systems. From self-teaching through online resources to collaborating with industry experts, I’ve built a career rooted in problem-solving, innovation, and continuous learning.  
