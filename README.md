@@ -16,10 +16,12 @@ Welcome to my GitHub! I'm a **full-stack software developer** passionate about c
 ## 💻 Technical Skills  
 
 ### **Languages:**  
-- JavaScript | Python | HTML | CSS  
+- Python | JavaScript | Java | C# | C++ | Go (Golang) | Rust | Ruby|  Kotlin| Swift |
+- HTML | CSS | TypeScript |  
 
 ### **Frameworks & Libraries:**  
-- React | Node.js | Express  | AngularJS | Django | TensorFlow | Bootstrap 
+- React | Node.js | Vue.js |  Express.js | Next.js | Ruby on Rails |
+- TensorFlow | PyToch | AngularJS | Django | Flask | TensorFlow | Bootstrap 
 
 ### **Databases:**  
 - SQL (MySQL, PostgreSQL) | NoSQL (MongoDB)  
