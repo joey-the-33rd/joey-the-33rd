@@ -41,12 +41,26 @@ Welcome to my GitHub! I'm a **full-stack software developer** passionate about c
 - SQL (MySQL, SQLite, PostgreSQL) | NoSQL (MongoDB)  
 
 ### **Tools & Platforms:** 
+
 ![Docker Developer](https://img.shields.io/badge/Docker_Enthusiast-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes Developer](https://img.shields.io/badge/Kubernetes_Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS Developer](https://img.shields.io/badge/AWS_Enthusiast-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![GitHub Developer](https://img.shields.io/badge/GitHub_Enthusiast-181717?style=for-the-badge&logo=github&logoColor=white)
 
 - Docker | Kubernetes | AWS | Git  
 
 ### **Additional Skills:**  
 - Version Control | DevOps Practices | CI/CD Pipelines
+
+
+![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white) ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white) ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white) ![Google Cloud Build Enthusiast](https://img.shields.io/badge/Google_Cloud_Build_Enthusiast-4285F4?style=for-the-badge&logo=googlecloudbuild&logoColor=white) ![GitLab CI/CD Enthusiast](https://img.shields.io/badge/GitLab_CI%2FCD_Enthusiast-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF4088?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenShift Pipelines](https://img.shields.io/badge/OpenShift_Pipelines-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white) ![GitHub Actions Enthusiast](https://img.shields.io/badge/GitHub_Actions_Enthusiast-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform Enthusiast](https://img.shields.io/badge/Terraform_Enthusiast-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Argo CD Deployment](https://img.shields.io/badge/Argo_CD_Deployment-Success-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
+
+
+
+
+
+
+
+
+
 
 ---
 
