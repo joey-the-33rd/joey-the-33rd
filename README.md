@@ -67,12 +67,14 @@ ___
 
 Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathways of my digital realm.
 
---
+---
+
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=joey-the-33rd&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=joey-the-33rd&theme=github-dark&hide_border=true" alt="GitHub Streak Stats">
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
