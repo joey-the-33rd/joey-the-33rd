@@ -75,9 +75,6 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joey-the-33rd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
