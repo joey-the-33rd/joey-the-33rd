@@ -103,7 +103,9 @@ I’m eager to collaborate on:
 Let’s connect!  
 - **Email:** jothefu@gmail.com  
 - **Twitter:** [@JothefuN](https://x.com/JothefuN)  
-- **LinkedIn:** [Joseph Ndungu](https://www.linkedin.com/in/joseph-ndungu-74431b135/)  
+- **LinkedIn:** [Joseph Ndungu](https://www.linkedin.com/in/joseph-ndungu-74431b135/)
+- **Bluesky:** [@Joeythe33rd](https://bsky.app/profile/joeythe33rd.bsky.social)
+- **Mastodon** [@Joeythe33rd](https://mastodon.social/@Joeythe33rd)
 
 ---
 
