@@ -1,6 +1,6 @@
 <div <div align="center">
     <img src="https://github.com/user-attachments/assets/a93d8467-59ad-4833-a93c-e5852850b457" alt="Brains+AI Bridge" style="width: 30%; height: 25%;">
-</div>
+</div> 
 
 ---
 
