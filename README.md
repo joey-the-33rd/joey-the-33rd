@@ -107,6 +107,10 @@ Let’s connect!
 - **LinkedIn:** [Joseph Ndungu](https://www.linkedin.com/in/joseph-ndungu-74431b135/)
 - **Bluesky:** [@Joeythe33rd](https://bsky.app/profile/joeythe33rd.bsky.social)
 - **Mastodon** [@Joeythe33rd](https://mastodon.social/@Joeythe33rd)
+- **Humanities Commons:** [@Joeythe33rd](https://hcommons.org/members/joeythe33rd/)
+
+
+
 
 ---
 
