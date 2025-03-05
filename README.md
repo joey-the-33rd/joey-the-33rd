@@ -77,9 +77,7 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
-
 ---
-
 
 ## 🌱 Currently Learning  
 
