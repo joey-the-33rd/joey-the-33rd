@@ -108,9 +108,6 @@ Let’s connect!
 - **Mastodon** [@Joeythe33rd](https://mastodon.social/@Joeythe33rd)
 - **Humanities Commons:** [@Joeythe33rd](https://hcommons.org/members/joeythe33rd/)
 
-
-
-
 ---
 
 ## ⚡ Fun Fact  
