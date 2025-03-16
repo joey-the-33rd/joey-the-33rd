@@ -42,8 +42,9 @@ Welcome to my GitHub! I'm a **full-stack software developer** passionate about c
 ### **Tools & Platforms:** 
 
 ![Docker Developer](https://img.shields.io/badge/Docker_Enthusiast-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes Developer](https://img.shields.io/badge/Kubernetes_Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS Developer](https://img.shields.io/badge/AWS_Enthusiast-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![GitHub Developer](https://img.shields.io/badge/GitHub_Enthusiast-181717?style=for-the-badge&logo=github&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-- Docker | Kubernetes | AWS | Git  
+- Docker | Kubernetes | AWS | Git | Framer  
 
 ### **Additional Skills:**  
 - Version Control | DevOps Practices | CI/CD Pipelines
