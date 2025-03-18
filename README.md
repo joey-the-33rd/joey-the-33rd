@@ -34,10 +34,11 @@ Welcome to my GitHub! I'm a **full-stack software developer** passionate about c
 - TensorFlow | PyToch | AngularJS | Django | Flask | Bootstrap | Mongo DB | Flet
 
 ### **Databases:**  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB Developer](https://img.shields.io/badge/MongoDB_Enthusiast-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL Developer](https://img.shields.io/badge/PostgreSQL_Enthusiast-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite Developer](https://img.shields.io/badge/SQLite_Enthusiast-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB Developer](https://img.shields.io/badge/MongoDB_Enthusiast-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL Developer](https://img.shields.io/badge/PostgreSQL_Enthusiast-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite Developer](https://img.shields.io/badge/SQLite_Enthusiast-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-- SQL (MySQL, SQLite, PostgreSQL) | NoSQL (MongoDB)  
+
+- SQL (MySQL, SQLite, PostgreSQL) | NoSQL (MongoDB) | Firebase
 
 ### **Tools & Platforms:** 
 
