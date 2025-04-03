@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 
 ### 2️⃣ AI Weather Predictor & Farmer Assist for Kenyan Region (Machine Learning & Web)
 
-🌦️ AI-powered web app that **analyzes weather patterns and predicts future forecasts** in Kenya using machine learning. Bridging the gap (***from traditional ways to ultra-mordern AI Driven AgriBiz***) for the North, and Central Rift Valley bread-basket regions, with a focus to enhancing the **21% - 27% Kenyan Agro-Based GDP contributions raise to 35%+.**
+🌦️ AI-powered web app that **analyzes weather patterns and predicts future forecasts** in Kenya using machine learning. Bridging the gap (***from traditional farming ways to ultra-mordern AI Driven AgriBiz***) for the North, and Central Rift Valley "bread-basket" regions, with a focus to enhancing the **21% - 27% Kenyan Agro-Based GDP contributions raise to 35%+.**
 
 - **Tech Stack:** Python, TensorFlow, Flask, React.js
 - **Features:**
