@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
   - ✅ AI-based weather prediction
   - ✅ Real-time data updates
   - ✅ Intuitive dashboard visualization
-- **[Live Demo](#) | [GitHub Repo](#)**
+- **[Live Demo](#) | [GitHub Repo](https://github.com/joey-the-33rd/AI-Powered-Weather-Market-Prediction-App)**
 
 ---
 
