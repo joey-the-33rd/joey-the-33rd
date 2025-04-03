@@ -11,9 +11,9 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 
 - **🎓 Background:** My journey began with YouTube tutorials, evolving through FreeCodeCamp trainings and LinkedIn certifications. Over the years, I have collaborated on **scalable, secure, and efficient** systems with industry professionals.  
 - **💡 Expertise:** Full-stack development, system design, database management, and cloud-based solutions.
-- **👨🏼‍💻 Tech Stack:** JavaScript, React.js, Node.js, Python, SQL, NoSQL, Docker, AWS, and more.
+- **👨🏼‍💻 Tech Stack:** Python, JavaScript, React.js, Node.js, SQL, NoSQL, Docker, AWS, and more.
 - **🚀 Passionate About:** Building **high-performance applications**, problem-solving, and **AI-driven solutions**.
-- **🎯 Current Project:** Developing an **AI-powered weather prediction & Farmer assit app for Kenya**.
+- **🎯 Current Project:** Developing an **AI-powered weather prediction & Farmer assit app for Kenyan region**.
 - **📜 Philosophy:** My work is driven by a passion for growth, collaboration, and building impactful solutions that stand the test of time.
 
 📄 **[Download My Resume](#)**  
@@ -35,9 +35,9 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 
 ---
 
-### 2️⃣ AI Weather Predictor for Kenya (Machine Learning & Web)
+### 2️⃣ AI Weather Predictor & Farmer Assist for Kenyan Region (Machine Learning & Web)
 
-🌦️ AI-powered web app that **analyzes weather patterns and predicts future forecasts** in Kenya using machine learning.
+🌦️ AI-powered web app that **analyzes weather patterns and predicts future forecasts** in Kenya using machine learning. Bridging the gap (***from traditional ways to ultra-mordern AI Driven AgriBiz***) for the North, and Central Rift Valley bread-basket regions, with a focus to enhancing the **21% - 27% Kenyan Agro-Based GDP contributions raise to 35%+.**
 
 - **Tech Stack:** Python, TensorFlow, Flask, React.js
 - **Features:**
@@ -152,7 +152,7 @@ Docker | Kubernetes | AWS | Framer
 - **Version Control | DevOps Practices | CI/CD Pipelines**
 
 ![Spinnaker](https://img.shields.io/badge/Spinnaker-44B8A3?logo=spinnaker&logoColor=white)
-![Bitwise](https://img.shields.io/badge/Bitwise-00B0B9?logo=bitwise&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-000000?logo=bitrise&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travis&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?logo=gitlab&logoColor=white)
@@ -160,7 +160,6 @@ Docker | Kubernetes | AWS | Framer
 ![OpenShift Pipelines](https://img.shields.io/badge/OpenShift%20Pipelines-EE0000?logo=openshift&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Argo CD Deployment](https://img.shields.io/badge/Argo_CD_Deployment-Success-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-16B6FF?logo=argo&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)
 
