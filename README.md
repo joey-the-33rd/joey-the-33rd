@@ -4,10 +4,10 @@
 
 ---
 
-## 👋 Hi, I'm Joseph Ndungu (@joey-the-33rd) 
+## 👋🏻 Hi, I'm Joseph Ndungu (@joey-the-33rd) 
 Welcome to my GitHub! I'm a **self-made full-stack software developer** with expertise in both **frontend and backend development, hands-on system design, DevOps, and cloud computing**. I’ve built a career rooted in problem-solving, innovation, and continuous learning.  
 
-## 👋🏻🌟 About Me  
+## 😊🌟 About Me  
 
 - **🎓 Background:** My journey began with YouTube tutorials, evolving through FreeCodeCamp trainings and LinkedIn certifications. Over the years, I have collaborated on **scalable, secure, and efficient** systems with industry professionals.  
 - **💡 Expertise:** Full-stack development, system design, database management, and cloud-based solutions.
