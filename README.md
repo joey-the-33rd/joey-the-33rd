@@ -230,7 +230,7 @@ Let’s connect!
 ---
 ## 📢 Testimonials
 
-> "Joseph is a highly skilled full-stack developer who delivers scalable and secure systems with precision. His expertise in backend develpment, cloud computing and DevOps is top-notch!" – **Kira Aziz**
+> "Joseph is a highly skilled full-stack developer who delivers scalable and secure systems with precision. His expertise in backend develpment, cloud computing and DevOps is top-notch!" – **Jarold Skidman**
 
 ___
 
