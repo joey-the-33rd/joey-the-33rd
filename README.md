@@ -77,7 +77,6 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 
 ---
 
-
 ## 💻 Skills & Technologies 
 
 ### **🦠PyNova Arts of Code:**  
@@ -94,7 +93,6 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Chat.js](https://img.shields.io/badge/Chat.js-000000?logo=chat&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
    
 React.js | Next.js | Tailwind CSS | Bootstrap | JavaScript | TypeScript | HTML | CSS | Dart (for Flutter) | Swift (for iOS) | Kotlin (for Android) | React JSX/TSX | Vue.js | Angular | Jquery | chat.js 
-
 
 - **Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
