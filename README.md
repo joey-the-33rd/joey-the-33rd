@@ -188,12 +188,23 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joey-the-33rd&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=joey-the-33rd&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=00bcd4&sideLabels=00bcd4&dates=a9b1d6&currStreakNum=00bcd4&sideNums=00bcd4" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages"/>
-</p>
+
+___
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/?username=joey-the-33rd&show_icons=true&count_private=true&theme=tokyonight&bg_color=1a1b26&title_color=00bcd4&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true&border_radius=10" height="192" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&theme=tokyonight&layout=compact&cache_seconds=1800&bg_color=1a1b26&title_color=00bcd4&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true&border_radius=10" height="192" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
