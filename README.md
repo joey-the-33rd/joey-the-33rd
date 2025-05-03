@@ -221,15 +221,24 @@ I’m eager to collaborate on:
 
 ## 📫 How to Reach Me  
 
-Let’s connect!  
-- **Email:** jothefu@gmail.com  
-- **Twitter:** [@JothefuN](https://x.com/JothefuN)  
-- **LinkedIn:** [Joseph Ndungu](https://www.linkedin.com/in/joseph-ndungu-74431b135/)
-- **Bluesky:** [@Joeythe33rd](https://bsky.app/profile/joeythe33rd.bsky.social)
-- **Mastodon** [@Joeythe33rd](https://mastodon.social/@Joeythe33rd)
-- **Humanities Commons:** [@Joeythe33rd](https://hcommons.org/members/joeythe33rd/)
+***Let’s connect!***
 
----
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jothefu@gmail.com) 
+
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jothefun)
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0275b3" />](https://twitch.tv/joseph-ndungu-74431b135)
+
+[<img align="left" alt="Bluesky" src="https://img.shields.io/badge/bluesky-0085FF?&style=for-the-badge&logo=bluesky&logoColor=white" />](https://bsky.app/profile/joeythe33rd.bsky.social)
+
+[<img align="left" alt="Mastodon" src="https://img.shields.io/badge/mastodon-6364FF?&style=for-the-badge&logo=mastodon&logoColor=white" />](https://mastodon.social/@Joeythe33rd)
+
+[<img align="left" alt="Humanities Commons" src="https://img.shields.io/badge/Humanities%20Commons-4B2E83?style=for-the-badge&logo=academia&logoColor=white" />](https://hcommons.org/members/joeythe33rd)
+
+___
+
+___
+
 ## 📢 Testimonials
 
 > "Joseph is a highly skilled full-stack developer who delivers scalable and secure systems with precision. His expertise in backend develpment, cloud computing and DevOps is top-notch!" – **Jarold Skidman**
