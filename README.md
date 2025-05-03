@@ -143,8 +143,19 @@ MySQL | MongoDB | PostgreSQL | SQLite | Firebase
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-1A1A1A?logo=framer&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Deno Deploy](https://img.shields.io/badge/Deno%20Deploy-000000?logo=deno&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Stormkit](https://img.shields.io/badge/Stormkit-2C3E50?logo=stormkit&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-00B7A5?logo=koyeb&logoColor=white)
 
-Docker | Kubernetes | AWS | Framer
+
+
+Docker | Kubernetes | AWS | Framer | Netlify | Azure | Cloudflre Pages | Heroku | Railway.app | Deno Deploy | Render.com | Stormkit | Koyeb
 
 
 - **Version Control | DevOps Practices | CI/CD Pipelines**
