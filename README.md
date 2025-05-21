@@ -205,7 +205,8 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
 
 ___
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=joey-the-33rd&show_icons=true&count_private=true&theme=tokyonight&bg_color=1a1b26&title_color=00bcd4&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true&border_radius=10" height="192" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&theme=tokyonight&layout=compact&cache_seconds=1800&bg_color=1a1b26&title_color=00bcd4&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true&border_radius=10" height="192" />
 </p>
 
