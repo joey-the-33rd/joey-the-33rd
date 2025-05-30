@@ -171,8 +171,9 @@ Docker | Kubernetes | AWS | Framer | Netlify | Azure | Cloudflre Pages | Heroku 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-16B6FF?logo=argo&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)
+![Jujutsu VCS](https://img.shields.io/badge/Jujutsu-3178C6?logo=git&logoColor=white)
 
-Spinnaker | Bitrise | Travis CI | GCP | Git Lab CICD | CICD | Docker | Open-Shift Pipelines | GitHub Actions | Terraform | Argco CD | Circle CI
+Spinnaker | Bitrise | Travis CI | GCP | Git Lab CICD | CICD | Docker | Open-Shift Pipelines | GitHub Actions | Terraform | Argco CD | Circle CI | Jujutsu VCS 
 
 
 - **APIs & Security:**
