@@ -72,6 +72,7 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 | **Open-Source DevOps Toolkit**       | In Progress  | Q2 2025             | Automated CI/CD templates, Kubernetes support |
 | **Full-Stack Blogging Platform**     | Planned      | Q1 2026             | Markdown editor, real-time comments, SEO optimization |
 | **E-Commerce AI Chatbot**            | Research     | Q2 2026             | AI-powered product recommendations, voice search |
+| **Intellexa-Cognivault®**            | Research     | Q3 2026             | Empowering Intelligent Interaction with Knowledge |
 
 💡 *I am open to collaboration! If you're interested in contributing, feel free to reach out!*
 
