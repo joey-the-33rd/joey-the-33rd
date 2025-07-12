@@ -237,36 +237,32 @@ ___
 Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathways of my digital realm.
 
 ---
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joey-the-33rd&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=00bcd4&sideLabels=00bcd4&dates=a9b1d6&currStreakNum=00bcd4&sideNums=00bcd4" alt="GitHub Streak">
-</p>
-
-
-___
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=joey-the-33rd&show_icons=true&count_private=true&cashe_seconds=300&refresh=true&theme=tokyonight&bg_color=1a1b26&title_color=00bcd4&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true&border_radius=10" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&theme=tokyonight&layout=compact&cache_seconds=300&refresh=true&count_private=true&bg_color=1a1b26&title_color=00bcd4&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true&border_radius=10" height="192" />
+  <img src="https://streak-stats.demolab.com?user=joey-the-33rd&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joey-the-33rd&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="32%" />
 </p>
 
 ---
 
-## 🌱 Currently Learning  
+## 🌱 Currently Learning
 
-I’m diving deeper into:  
+- GraphQL & Hasura  
+- LangChain & Vector DBs  
+- Scalable AI inference pipelines  
+- Blockchain provenance  
 - Advanced cloud-native technologies.  
 - Microservices architecture for enterprise-grade systems.  
 - AI and machine learning integration in software development.  
 
 ---
 
-## 💞️ Collaboration Interests  
+## 💞️ Collaboration Interests
 
-I’m eager to collaborate on:  
-- **End-to-end development** of innovative web or mobile applications.  
-- **Cloud-based systems** that prioritize scalability and performance.  
-- **Open-source projects** to contribute to the developer community.  
+Open to teaming up on:
+- End-to-end web/mobile/AI apps  
+- Cloud-native, scalable architectures  
+- Open-source community projects
 
 ---
 
@@ -292,6 +288,10 @@ ___
 
 ## 📢 Testimonials
 
+> “Joseph delivers secure, scalable systems with precision—his backend, cloud, and DevOps skills are top-notch!”  
+> — **Jarold Skidman**
+## 📢 Testimonials
+
 > "Joseph is a highly skilled full-stack developer who delivers scalable and secure systems with precision. His expertise in backend develpment, cloud computing and DevOps is top-notch!" – **Jarold Skidman**
 
 ___
@@ -301,4 +301,3 @@ ___
 > I started coding with just a curious mind and online resources. Today, I’m a professional full-stack developer who owes this journey to God’s guidance 🕎🔯, **Wamzy**, **Mimi**, and **Kira Aziz** my mentors🗝🏛️ and inspiration✨🌈, and mostly, to the unwavering support of my brother, ***Charles N. Muriuki*** 😇🙏🏽.  
 
 --- 
-
