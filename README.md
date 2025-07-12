@@ -229,9 +229,21 @@ Spinnaker | Bitrise | Travis CI | GCP | Git Lab CICD | CICD | Docker | Open-Shif
 ---
 
 - **APIs & Security:**
-![REST API](https://img.shields.io/badge/REST%20API-000000?logo=api&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-000000?logo=oauth&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST%20API-6db33f?logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/API-GraphQL-e10098?logo=graphql&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/Docs-OpenAPI-85ea2d?logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Docs-Swagger-85ea2d?logo=swagger&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-000000?logo=oauth&logoColor=white) 
+![OAuth2](https://img.shields.io/badge/Auth-OAuth2-3b5998?logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white)
+![OpenID](https://img.shields.io/badge/Auth-OpenID%20Connect-f78c40?logo=openid&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth-Auth0-eb5424?logo=auth0&logoColor=white)
+![Google](https://img.shields.io/badge/SSO-Google-4285f4?logo=google&logoColor=white)
+![GitHub](https://img.shields.io/badge/SSO-GitHub-333?logo=github&logoColor=white)
 
-REST, GraphQL, OAuth, JWT
+
+REST | FastAPI | GraphQL | OpenAPI | Swagger | OAuth | JWT | OAuth2 | OpenID | Auth0 | Google | GitHub
 
 ---
 
