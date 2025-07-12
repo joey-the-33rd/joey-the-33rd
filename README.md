@@ -120,6 +120,8 @@ I began my journey with nothing more than **curiosity and free online tutorials*
 
 ### **🦠PyNova Arts of Code:**  
 
+---
+
 - **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
@@ -132,6 +134,8 @@ I began my journey with nothing more than **curiosity and free online tutorials*
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Chat.js](https://img.shields.io/badge/Chat.js-000000?logo=chat&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
    
 React.js | Next.js | Tailwind CSS | Bootstrap | JavaScript | TypeScript | HTML | CSS | Dart (for Flutter) | Swift (for iOS) | Kotlin (for Android) | React JSX/TSX | Vue.js | Angular | Jquery | chat.js 
+
+----
 
 - **Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -166,6 +170,7 @@ React.js | Next.js | Tailwind CSS | Bootstrap | JavaScript | TypeScript | HTML |
 
 Python | Node.js | Express.js | Django | Flask | JavaScript/Node.js | Java | C# | PHP | Ruby | Go | Rust | Kotlin | TypeScript (Node.js) | Elixir | Scala | C++ | Adobe XD | Figma | Vercel | Netlify | TensorFlow | PyTorch | Flet | Pandas | Matplotlib | Scikit-Learn | NumPy | SciPy | Pyttx3
 
+---
 
 - **Databases:** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -173,9 +178,17 @@ Python | Node.js | Express.js | Django | Flask | JavaScript/Node.js | Java | C# 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-Enabled-blueviolet?logo=databricks&logoColor=white)
+![MinIO](https://img.shields.io/badge/Object%20Storage-MinIO-red?logo=minio&logoColor=white)
+![Redis](https://img.shields.io/badge/Cache-Redis-dc382d?logo=redis&logoColor=white)
+![Weaviate](https://img.shields.io/badge/RAG-Weaviate-00b4d8?logo=weaviate&logoColor=white)
+![Milvus](https://img.shields.io/badge/Vector%20DB-Milvus-00bfa5?logo=apache&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Vector%20DB-Qdrant-4caf50?logo=qdrant&logoColor=white)
+![Chroma](https://img.shields.io/badge/Vector%20DB-Chroma-ff9800?logo=brain&logoColor=white)
 
-MySQL | MongoDB | PostgreSQL | SQLite | Firebase
+MySQL | MongoDB | PostgreSQL | SQLite | Firebase | Vector BD | MinIO | Redis | Weaviate | Milvus | Qdrant | | Chroma
 
+---
   
 - **DevOps & Cloud:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -192,10 +205,9 @@ MySQL | MongoDB | PostgreSQL | SQLite | Firebase
 ![Stormkit](https://img.shields.io/badge/Stormkit-2C3E50?logo=stormkit&logoColor=white)
 ![Koyeb](https://img.shields.io/badge/Koyeb-00B7A5?logo=koyeb&logoColor=white)
 
+Docker | Kubernetes | AWS | Framer | Netlify | Azure | Cloudflre Pages | Heroku | Railway.app | Deno Deploy | Render.com | Stormkit | Koyeb 
 
-
-Docker | Kubernetes | AWS | Framer | Netlify | Azure | Cloudflre Pages | Heroku | Railway.app | Deno Deploy | Render.com | Stormkit | Koyeb
-
+---
 
 - **Version Control | DevOps Practices | CI/CD Pipelines**
 
@@ -214,12 +226,14 @@ Docker | Kubernetes | AWS | Framer | Netlify | Azure | Cloudflre Pages | Heroku 
 
 Spinnaker | Bitrise | Travis CI | GCP | Git Lab CICD | CICD | Docker | Open-Shift Pipelines | GitHub Actions | Terraform | Argco CD | Circle CI | Jujutsu VCS 
 
+---
 
 - **APIs & Security:**
 ![REST API](https://img.shields.io/badge/REST%20API-000000?logo=api&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-000000?logo=oauth&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
 REST, GraphQL, OAuth, JWT
 
+---
 
 ### ⚙️ ***DevOpps Blueprint*** 
 ---
