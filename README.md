@@ -3,20 +3,33 @@
 </div> 
 
 ---
+## 👋 Hi, I’m **Joseph Ndungu** — @joey-the-33rd
 
-## 👋🏻 Hi, I'm Joseph Ndungu (@joey-the-33rd) 
-Welcome to my GitHub! I'm a **self-made full-stack software developer** with expertise in both **frontend and backend development, hands-on system design, DevOps, and cloud computing**. I’ve built a career rooted in problem-solving, innovation, and continuous learning.  
+🎯 I’m a self-made full-stack systems developer with a passion for **crafting scalable, secure, and intelligent software** — from responsive web & mobile apps to AI-powered platforms that impact communities worldwide.
 
-## 😊🌟 About Me  
+---
 
-- **🎓 Background:** My journey began with YouTube tutorials, evolving through FreeCodeCamp trainings and LinkedIn certifications. Over the years, I have collaborated on **scalable, secure, and efficient** systems with industry professionals.  
-- **💡 Expertise:** Full-stack development, system design, database management, and cloud-based solutions.
-- **👨🏼‍💻 Tech Stack:** Python, JavaScript, React.js, Node.js, SQL, NoSQL, Docker, AWS, and more.
-- **🚀 Passionate About:** Building **high-performance applications**, problem-solving, and **AI-driven solutions**.
-- **🎯 Current Project:** Developing an **AI-powered weather prediction & Farmer assit app for Kenyan region**.
-- **📜 Philosophy:** My work is driven by a passion for growth, collaboration, and building impactful solutions that stand the test of time.
+## 🌟 About Me
 
-📄 **[Download My Resume](#)**  
+I began my journey with nothing more than **curiosity and free online tutorials**, starting from YouTube and evolving through **FreeCodeCamp, LinkedIn certifications**, and relentless hands-on practice. Today, I collaborate on **production-grade systems**, drive innovation in **AI/ML integrations**, and design systems that scale.
+
+### 💡 I Specialize In:
+- **Full-Stack Development:** Python, React.js, Node.js, Django, Flask  
+- **Backend Systems & DevOps:** PostgreSQL, Redis, Docker, MinIO  
+- **AI/ML Integration:** TensorFlow, LangChain, LLMs, Semantic Search  
+- **Cloud & Architecture:** AWS, GCP, Vercel, Kubernetes  
+
+🛠️ I’ve built everything from **music tools and e-commerce apps** to **AI-driven knowledge platforms and misinformation detectors**.
+
+---
+
+### 👁 What Drives Me
+
+- **🚀 Passionate About:** Crafting **high-performance applications**, solving tough technical challenges, and building **AI-powered solutions** that empower communities — especially across **Kenya, Africa**, and beyond.  
+- **📜 Philosophy:** My work is rooted in **growth, creativity, and impact** — building solutions that outlast trends and inspire others.  
+- **🎯 Current Mission:** Building an **AI-Powered Weather Prediction & Farmer Assist App** to support Kenyan agriculture and raise agro‑GDP through intelligent forecasts and actionable insights.
+
+📄 **[Download My Resume](#)**
 
 ---
 
@@ -24,27 +37,27 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 
 ### 1️⃣ Spotify Song Downloader (Full-Stack)
 
-🎵 A simple yet powerful app allowing users to **download their favorite songs from Spotify** with Google login authentication.
+🎧 A simple yet powerful app allowing users to **download their favorite songs from Spotify** with Google login authentication.
 
-- **Tech Stack:** React.js, Node.js, Express.js, Firebase Authentication
+- **Tech Stack:** React.js, Node.js, Express.js, Firebase Authentication  
 - **Features:**
-  - ✅ Google Sign-In
-  - ✅ Displays user's top 10 favorited songs
-  - ✅ Clean and responsive UI
-- **[Live Demo](#) | [GitHub Repo](#)**
+  - ✅ Google Sign-In  
+  - ✅ Displays user's top 10 favorited songs  
+  - ✅ Clean and responsive UI  
+- 🔗 **[Live Demo](#)** | **[GitHub Repo](https://github.com/joey-the-33rd/spotify-song-downloader)**
 
 ---
 
 ### 2️⃣ AI Weather Predictor & Farmer Assist for Kenyan Region (Machine Learning & Web)
 
-🌦️ AI-powered web app that **analyzes weather patterns and predicts future forecasts** in Kenya using machine learning. Bridging the gap (***from traditional farming ways to ultra-mordern AI Driven AgriBiz***) for the North, and Central Rift Valley "bread-basket" regions, with a focus to enhancing the **21% - 27% Kenyan Agro-Based GDP contributions raise to 35%+.**
+🌦️ AI-powered web app that **analyzes weather patterns and predicts future forecasts** in Kenya using machine learning. Bridging the gap (***from traditional farming to ultra-modern AI-driven AgriBiz***) for Rift Valley's breadbasket region, aimed at boosting Kenya's Agro-GDP from 27% to 35%+.
 
-- **Tech Stack:** Python, TensorFlow, Flask, React.js
+- **Tech Stack:** Python, TensorFlow, Flask, React.js  
 - **Features:**
-  - ✅ AI-based weather prediction
-  - ✅ Real-time data updates
-  - ✅ Intuitive dashboard visualization
-- **[Live Demo](#) | [GitHub Repo](#)**
+  - ✅ AI-based weather prediction  
+  - ✅ Real-time data updates  
+  - ✅ Intuitive dashboard visualization  
+- 🔗 **[Live Demo](#)** | **[GitHub Repo](https://github.com/joey-the-33rd/ai-weather-market-app)**
 
 ---
 
@@ -52,27 +65,52 @@ Welcome to my GitHub! I'm a **self-made full-stack software developer** with exp
 
 🛒 A feature-rich e-commerce web app with **product listings, cart functionality, and secure payments**.
 
-- **Tech Stack:** Next.js, Node.js, MongoDB, Stripe API
+- **Tech Stack:** Next.js, Node.js, MongoDB, Stripe API  
 - **Features:**
-  - ✅ Secure checkout with Stripe
-  - ✅ Admin dashboard for product management
-  - ✅ Mobile-first responsive design
-- **[Live Demo](#) | [GitHub Repo](#)**
+  - ✅ Secure checkout with Stripe  
+  - ✅ Admin dashboard for product management  
+  - ✅ Mobile-first responsive design  
+- 🔗 **[Live Demo](#)** | **[GitHub Repo](https://github.com/joey-the-33rd/ecommerce-app)**
 
 ---
 
+### 4️⃣ TruthGuard™ – Real-Time Misinformation Shield (AI + Browser Extension)
+
+🛡️ A cutting-edge browser extension and mobile app that **detects and flags deepfakes, fake news, and AI-generated content** using LLMs and blockchain-backed verification.
+
+- **Tech Stack:** TypeScript, Vite, LLM APIs, Blockchain, Chrome Extension APIs  
+- **Features:**
+  - ✅ AI-powered detection of fake media  
+  - ✅ Crowd-sourced credibility signals  
+  - ✅ Proof-of-origin verification via blockchain  
+- 🔗 **[Live Demo](#)** | **[GitHub Repo](https://github.com/joey-the-33rd/TruthGuard)**
+
+---
+
+### 5️⃣ Intellexa-Cognivault® (AI-Powered Knowledge Platform)
+
+🧠 A secure, intelligent document vault powered by AI. This platform enables users to **upload, search, and interact with private or public documents** using advanced retrieval-augmented generation (RAG) and semantic search.
+
+- **Tech Stack:** FastAPI, PostgreSQL, Redis, pgvector, MinIO, LLMs  
+- **Features:**
+  - ✅ Semantic document search & Q&A  
+  - ✅ JWT + OAuth2 secured access  
+  - ✅ Pluggable vector DB + object storage backends  
+- 🔗 **[Live Demo](#)** | **[GitHub Repo](https://github.com/joey-the-33rd/intellexa-cognivault)**
+
+---
 ## 📌 Project Roadmap
 
-🚀 **Upcoming & In-Progress Projects**
+### 🗺️ Roadmap & 🚀 Upcoming Work
 
-| **Project**                          | **Status**      | **Expected Completion** | **Key Features** |
-|--------------------------------------|---------------|----------------------|----------------|
-| **AI Weather Predictor v2.0**        | In Progress  | Q3 2025             | Advanced ML models, mobile app integration |
-| **Spotify Song Downloader Pro**      | Planned      | Q4 2025             | Batch downloads, playlist support, dark mode UI |
-| **Open-Source DevOps Toolkit**       | In Progress  | Q2 2025             | Automated CI/CD templates, Kubernetes support |
-| **Full-Stack Blogging Platform**     | Planned      | Q1 2026             | Markdown editor, real-time comments, SEO optimization |
-| **E-Commerce AI Chatbot**            | Research     | Q2 2026             | AI-powered product recommendations, voice search |
-| **Intellexa-Cognivault®**            | Research     | Q3 2026             | Empowering Intelligent Interaction with Knowledge |
+| Project                          | Status       | ETA       | Highlights                                         |
+|----------------------------------|--------------|-----------|----------------------------------------------------|
+| AI Weather Predictor v2.0        | In Progress  | Q3 2025   | Mobile app, live ML inference, offline caching     |
+| TruthGuard™ v1.0 Launch          | In Progress  | Q3 2025   | Deepfake/FAKE-news detection, blockchain proofs    |
+| Spotify Downloader Pro           | Planned      | Q4 2025   | Playlist support, batch downloads, dark mode       |
+| Full-Stack Blogging Platform     | Planned      | Q1 2026   | Markdown editor, live comments, SEO optimization   |
+| E-Commerce AI Chatbot            | Research     | Q2 2026   | Voice assistant, LLM product recommendations       |
+| Intellexa-Cognivault®            | Research     | Q3 2026   | Secure knowledge vault, intelligent LLM interface  |
 
 💡 *I am open to collaboration! If you're interested in contributing, feel free to reach out!*
 
