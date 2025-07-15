@@ -275,25 +275,6 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
 
 ---
 
----
-<table>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=joey-the-33rd&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=joey-the-33rd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌱 Currently Learning
 
 - GraphQL & Hasura  
