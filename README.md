@@ -263,19 +263,6 @@ ___
 Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathways of my digital realm.
 
 ---
-
-<!-- 🔥 GitHub Streak (Top Row Alone) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joey-the-33rd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/>
-</p>
-
-<!-- 📊 GitHub Stats + 🧠 Top Languages (Bottom Row Side-by-Side) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joey-the-33rd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="46%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="44%" style="height:195px;"/>
-</p>
-
----
 <!-- GitHub Stats Layout for joey-the-33rd -->
 
 <p align="center">
@@ -283,10 +270,9 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joey-the-33rd&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joey-the-33rd&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" alt="Top Languages" />
 </p>
-
 
 ---
 
