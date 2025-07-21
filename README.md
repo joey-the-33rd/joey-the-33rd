@@ -276,6 +276,19 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
 </p>
 
 ---
+<!-- GitHub Stats Layout for joey-the-33rd -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joey-the-33rd&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joey-the-33rd&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-the-33rd&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=400" alt="Top Languages" />
+</p>
+
+
+---
 
 ## 🌱 Currently Learning
 
