@@ -250,8 +250,10 @@ REST | FastAPI | GraphQL | OpenAPI | Swagger | OAuth | JWT | OAuth2 | OpenID | A
 ### ⚙️ ***DevOpps Blueprint*** 
 ---
 <p align="center">
-  <img src="https://api.reliasoftware.com/uploads/Dev_Ops_practices_8c0386308b.png" alt="DevOps" height="300px">
+    <img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-292c-61f9-99a6-7dd37cf04809/raw?se=2025-07-21T15%3A10%3A20Z&sp=r&sv=2024-08-04&sr=b&scid=60330fb7-b470-5fed-89e8-85d676cf232a&skoid=ea0c7534-f237-4ccd-b7ea-766c4ed977ad&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-21T13%3A36%3A45Z&ske=2025-07-22T13%3A36%3A45Z&sks=b&skv=2024-08-04&sig=5NilG/PfE8j6Lgts71lcAQdKtyikMv0QEctnK4BEs4w%3D" alt="DevOps Lifecycle" height="300px">
+
   <img src="https://shalb.com/wp-content/uploads/2019/11/Devops1-1536x1003.jpeg" alt="DevOps 2" height="300px">
+
 </p>
 
 ___
