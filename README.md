@@ -61,6 +61,7 @@ I began my journey with nothing more than **curiosity and free online tutorials*
 
 ---
 
+
 ### 3️⃣ Scalable E-Commerce Platform (Full-Stack)
 
 🛒 A feature-rich e-commerce web app with **product listings, cart functionality, and secure payments**.
