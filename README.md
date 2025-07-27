@@ -9,6 +9,7 @@
 
 ---
 
+
 ## 🌟 About Me
 
 I began my journey with nothing more than **curiosity and free online tutorials**, starting from YouTube and evolving through **FreeCodeCamp, LinkedIn certifications**, and relentless hands-on practice. Today, I collaborate on **production-grade systems**, drive innovation in **AI/ML integrations**, and design systems that scale.
