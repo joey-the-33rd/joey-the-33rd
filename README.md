@@ -7,9 +7,10 @@
 
 🎯 I’m a self-made full-stack systems developer with a passion for **crafting scalable, secure, and intelligent software** — from responsive web & mobile apps to AI-powered platforms that impact communities worldwide.
 
----
+---7 6fhL
 
 ## 🌟 About Me
+
 
 I began my journey with nothing more than **curiosity and free online tutorials**, starting from YouTube and evolving through **FreeCodeCamp, LinkedIn certifications**, and relentless hands-on practice. Today, I collaborate on **production-grade systems**, drive innovation in **AI/ML integrations**, and design systems that scale.
 
