@@ -7,8 +7,6 @@
 
 🎯 I’m a self-made full-stack systems developer with a passion for **crafting scalable, secure, and intelligent software** — from responsive web & mobile apps to AI-powered platforms that impact communities worldwide.
 
-
-
 ---
 
 ## 🌟 About Me
