@@ -127,15 +127,14 @@ I began my journey with nothing more than **curiosity and free online tutorials*
 - **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JSX](https://img.shields.io/badge/JSX-61DAFB?logo=react&logoColor=white) ![TSX](https://img.shields.io/badge/TSX-3178C6?logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=5.3&color=563d7c&logo=bootstrap)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-![JSX](https://img.shields.io/badge/JSX-61DAFB?logo=react&logoColor=white) ![TSX](https://img.shields.io/badge/TSX-3178C6?logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Chat.js](https://img.shields.io/badge/Chat.js-000000?logo=chat&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+ ![Chat.js](https://img.shields.io/badge/Chat.js-000000?logo=chat&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
    
-React.js | Next.js | Tailwind CSS | Bootstrap | JavaScript | TypeScript | HTML | CSS | Dart (for Flutter) | Swift (for iOS) | Kotlin (for Android) | React JSX/TSX | Vue.js | Angular | Jquery | chat.js 
+React.js | Next.js | Tailwind CSS | JSX/TSX | Vue.js | Angular | Bootstrap | JavaScript | TypeScript | HTML | CSS | Dart (for Flutter) | Swift (for iOS) | Kotlin (for Android) | Jquery | chat.js 
 
 ----
 
@@ -197,34 +196,34 @@ MySQL | MongoDB | PostgreSQL | SQLite | Firebase | Vector BD | MinIO | Redis | W
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-1A1A1A?logo=framer&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![Deno Deploy](https://img.shields.io/badge/Deno%20Deploy-000000?logo=deno&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 ![Stormkit](https://img.shields.io/badge/Stormkit-2C3E50?logo=stormkit&logoColor=white)
 ![Koyeb](https://img.shields.io/badge/Koyeb-00B7A5?logo=koyeb&logoColor=white)
 
-Docker | Kubernetes | AWS | Framer | Netlify | Azure | Cloudflre Pages | Heroku | Railway.app | Deno Deploy | Render.com | Stormkit | Koyeb 
+Docker | Kubernetes | AWS | Framer | | Render.com | Netlify | Heroku | Azure | Cloudflre Pages | Railway.app | Deno Deploy  | Stormkit | Koyeb 
 
 ---
 
 - **Version Control | DevOps Practices | CI/CD Pipelines**
 
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4BCF6E?logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Jujutsu VCS](https://img.shields.io/badge/Jujutsu-3178C6?logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Spinnaker](https://img.shields.io/badge/Spinnaker-44B8A3?logo=spinnaker&logoColor=white)
 ![Bitrise](https://img.shields.io/badge/Bitrise-000000?logo=bitrise&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travis&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?logo=gitlab&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-4BCF6E?logo=circleci&logoColor=white)
 ![OpenShift Pipelines](https://img.shields.io/badge/OpenShift%20Pipelines-EE0000?logo=openshift&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-16B6FF?logo=argo&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)
-![Jujutsu VCS](https://img.shields.io/badge/Jujutsu-3178C6?logo=git&logoColor=white)
 
 Spinnaker | Bitrise | Travis CI | GCP | Git Lab CICD | CICD | Docker | Open-Shift Pipelines | GitHub Actions | Terraform | Argco CD | Circle CI | Jujutsu VCS 
 
