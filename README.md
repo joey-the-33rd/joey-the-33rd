@@ -30,7 +30,7 @@ I began my journey with nothing more than **curiosity and free online tutorials*
 - **📜 Philosophy:** My work is rooted in **growth, creativity, and impact** — building solutions that outlast trends and inspire others.  
 - **🎯 Current Mission:** Building an **AI-Powered Weather Prediction & Farmer Assist App** to support Kenyan agriculture and raise agro‑GDP through intelligent forecasts and actionable insights.
 
-📄 **[Download My Resume](#)**
+📄 **[Download My Resume](https://docs.google.com/document/d/1iJ4QxIeSBlmMnBiNjK5pbULA3WTQwOj0H42UWX8566M/edit?tab=t.0)**
 
 ---
 
