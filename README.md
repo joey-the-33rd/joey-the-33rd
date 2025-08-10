@@ -281,7 +281,6 @@ Feel the pulse of the code, embrace the weave, and traverse the enigmatic pathwa
 
 ## 🌱 Currently Learning
 
-- GraphQL & Hasura  
 - LangChain & Vector DBs  
 - Scalable AI inference pipelines  
 - Blockchain provenance  
